@@ -1,0 +1,8 @@
+**/bin/
+**/compile_commands.json
+**/lib*
+**/*_defines.h
+**/*.d
+**/*.o
+**/*.bin
+.ccls-cache/
